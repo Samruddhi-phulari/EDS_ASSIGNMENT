@@ -1,9 +1,9 @@
 ##EDS ASSIGNMENT
 
 ## Student Info
-- *Name:* Poorva Sunil Mali  
-- *Roll No:* CS8-27  
-- *PRN No:* 202401120027  
+- *Name:* Samruddhi Deepak Phulari  
+- *Roll No:* CS4-34  
+- *PRN No:* 202401040129
 
 ## Resources
 
@@ -11,7 +11,7 @@
 [Click to view Preskilet video](https://preskilet.com/67f26bc8c7c642001d81f05a)
 
 ### 📄 Cisco Certificates
-- [Python Essentials 1 & 2](CISCO CERTIFICATES.pdf)
+- [Python Essentials 1 & 2](CISCO%20CERTIFICATES.pdf)
 
 ### 📝 EDS Assignment
-- [Activity No-1 (Theory)](EDS THEORY ACTIVITY NO-1[1].pdf)
+- [Activity No-1 (Theory)](EDS%20THEORY%20ACTIVITY%20NO-1%5B1%5D.pdf)
